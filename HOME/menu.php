@@ -39,7 +39,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link collapsed" href="Surat_keluar.php">
+        <a class="nav-link collapsed" href="surat_keluar.php">
           <i class="fas fa-envelope-open"></i>
           <span>Surat Keluar</span>
         </a>
